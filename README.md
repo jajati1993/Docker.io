@@ -1,2 +1,0 @@
-# Docker.io
-Author - Jajati
